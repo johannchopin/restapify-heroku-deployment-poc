@@ -4,6 +4,9 @@
   "repository": "git@github.com:johannchopin/restapify-heroku-deployment-poc.git",
   "author": "johannchopin <johannchopin@pm.me>",
   "license": "MIT",
+  "scripts": {
+    "start": "node ./serve.js" 
+  },
   "dependencies": {
     "restapify": "^2.3.1"
   }
