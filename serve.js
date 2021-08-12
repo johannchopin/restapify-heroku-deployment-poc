@@ -1,7 +1,7 @@
 const path = require('path')
 const Restapify = require('restapify').default
 
-const apiFolderPath = path.resolve(__dirname, './api')
+const apiFolderPath = path.resolve(__dirname, './apis')
 
 const rpfy = new Restapify({
   rootDir: apiFolderPath,
