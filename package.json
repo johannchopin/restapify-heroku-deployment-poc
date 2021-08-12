@@ -1,0 +1,10 @@
+{
+  "name": "restapify-heroku-deployment-poc",
+  "version": "1.0.0",
+  "repository": "git@github.com:johannchopin/restapify-heroku-deployment-poc.git",
+  "author": "johannchopin <johannchopin@pm.me>",
+  "license": "MIT",
+  "dependencies": {
+    "restapify": "^2.3.1"
+  }
+}
