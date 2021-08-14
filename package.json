@@ -8,6 +8,6 @@
     "start": "node ./serve.js" 
   },
   "dependencies": {
-    "restapify": "^2.3.1"
+    "restapify": "^2.3.4"
   }
 }
