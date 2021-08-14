@@ -1,8 +1,0 @@
-[
-  "#for i in range([q:limit|25])",
-  {
-    "id": "n:[i]",
-    "name": "[#faker:name:firstName]"
-  },
-  "#endfor"
-]
